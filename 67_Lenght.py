@@ -1,0 +1,3 @@
+#find the length of a Tuple
+my_tuple = (10,20,30,40,50)
+print("Length of tuple:", len(my_tuple))
